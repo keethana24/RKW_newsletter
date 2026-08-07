@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>RK World Category Intelligence — {{ISSUE_DATE}}</title>
+<style>
+  body { margin:0; padding:22px 16px; background:#f0f2f5;
+         font-family:"Segoe UI",Arial,Helvetica,sans-serif; font-size:14px; line-height:1.5; }
+  .wrap { max-width:820px; margin:0 auto; background:#fff; padding:28px 32px 24px 32px;
+          border-radius:5px; box-shadow:0 1px 8px rgba(0,0,0,.08); }
+  h1 { font-size:24px; font-weight:bold; color:#1a56db; margin:0 0 3px 0; }
+  .date { color:#8a90a0; font-size:12.5px; margin-bottom:5px; }
+  hr.top { border:none; border-top:2px solid #1a56db; margin:0 0 18px 0; }
+  h2 { font-size:17px; font-weight:bold; color:#1a56db; margin:22px 0 9px 0;
+       padding-bottom:5px; border-bottom:1px solid #e3e6ec; }
+  h2 .cnt { font-weight:normal; color:#9aa0ae; font-size:12px; }
+  .sub { font-weight:bold; color:#000; }
+  .txt { color:#5a6173; }
+  .exec { background:#f6f8fc; border-left:3px solid #1a56db; padding:12px 16px; margin-bottom:6px; }
+  .exec .eh { font-size:15px; font-weight:bold; color:#000; margin-bottom:9px; }
+  .exec .row { margin-bottom:8px; }
+  .exec .row:last-child { margin-bottom:0; }
+  .row { margin-bottom:7px; }
+  .n { color:#000; font-weight:bold; margin-right:5px; }
+  .src { color:#a0a6b4; font-size:11.5px; }
+  .quiet { color:#8a90a0; font-size:12.5px; font-style:italic; }
+  a { color:#1a56db; text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  .gap { background:#f3faf6; border-left:3px solid #0f766e; padding:9px 14px; margin-top:9px; }
+  .gap .gh { font-weight:bold; color:#000; font-size:13px; }
+  .gap .txt { font-size:13px; }
+  .sign { text-align:center; color:#a0a6b4; font-size:11.5px; margin-top:20px;
+          padding-top:14px; border-top:1px solid #e3e6ec; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>RK World Category Intelligence</h1>
+  <div class="date">{{ISSUE_DATE}} &nbsp;&middot;&nbsp; News window: {{WINDOW_START}}&ndash;{{WINDOW_END}} &nbsp;&middot;&nbsp; Beauty &middot; Luxury Beauty &middot; Grocery &middot; Baby &middot; Health &amp; Personal Care &nbsp;&middot;&nbsp; {{TOTAL_BRANDS}} brands &middot; {{TOTAL_LISTINGS}} listings on Amazon India</div>
+  <hr class="top">
+
+  <div class="exec">
+    <div class="eh">Executive Summary</div>
+    <!-- One .row per summary paragraph. Only stories published inside the 2-day window may be summarised as news. -->
+    <div class="row"><span class="txt">{{EXEC_SUMMARY_PARAGRAPH_1}}</span></div>
+    <div class="row"><span class="txt">{{EXEC_SUMMARY_PARAGRAPH_2}}</span></div>
+  </div>
+
+  <h2>{{SECTION_NAME}} <span class="cnt">&mdash; {{SECTION_BRANDS}} brands &middot; {{SECTION_LISTINGS}} listings</span></h2>
+
+  <!-- ROW TEMPLATE A: brand WITH news published inside the 2-day window -->
+  <div class="row"><span class="n">1.</span><span class="sub">{{BRAND_NAME}}</span> <span class="txt">&mdash; {{NEWS_TEXT}} <span class="src">{{SOURCE_NAME}}, {{PUBLISH_DATE}}</span></span></div>
+
+  <!-- ROW TEMPLATE B: brand with NO news in the window, but a known last story (short headline only; link optional) -->
+  <div class="row"><span class="n">2.</span><span class="sub">{{BRAND_NAME}}</span> <span class="txt">&mdash; <span class="quiet">No major news today (last major news: {{LAST_NEWS_HEADLINE}})</span>.</span></div>
+
+  <!-- ROW TEMPLATE C: brand with NO news and no known prior story -->
+  <div class="row"><span class="n">3.</span><span class="sub">{{BRAND_NAME}}</span> <span class="txt">&mdash; <span class="quiet">No major news today (no prior story found)</span>.</span></div>
+
+  <!-- Optional per-section portfolio-gap callout (catalogue analysis, not news) -->
+  <div class="gap"><span class="gh">Not in our portfolio:</span> <span class="txt">{{GAP_BRANDS_AND_NOTES}}</span></div>
+
+  <!-- Repeat the <h2> section block above for: Marketplaces, Beauty, Luxury Beauty, Grocery, Baby,
+       Health & Personal Care, Quick Commerce. Rules:
+       1. News window is the last 2 days from the issue date. A story only appears as news (template A)
+          if its publication date falls inside that window.
+       2. Anything older goes in a bracket as a one-line headline (template B) — no dates, sources or
+          long detail in the bracket.
+       3. Undated stories are treated as outside the window (template B), never as current news. -->
+
+  <div class="sign">RK World Infocom &nbsp;|&nbsp; Confidential &mdash; internal use only &nbsp;|&nbsp; News items cover stories published {{WINDOW_START}}&ndash;{{WINDOW_END}} only</div>
+
+</div>
+</body>
+</html>
