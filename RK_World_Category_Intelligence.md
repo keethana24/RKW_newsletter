@@ -2,8 +2,6 @@
 
 **August 07, 2026** · News window: August 05–07, 2026 · Beauty · Luxury Beauty · Grocery · Baby · Health & Personal Care · 2,726 brands · 8,807 listings on Amazon India
 
-*Ranked by catalogue breadth — how many sub-categories a brand occupies in our catalogue — not by sales. No platform publishes brand-level sales data. Category brand counts sum higher than 2,726 because 574 brands sit in more than one category.*
-
 ---
 
 ## Executive Summary

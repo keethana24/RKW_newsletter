@@ -34,7 +34,7 @@ Every brand/platform row is numbered and uses exactly one of three patterns:
 
 ## Structure of an issue
 
-1. **Header** — title, date line (issue date · news window · categories · total brands/listings), then the italic methodology note: ranked by catalogue breadth (sub-categories occupied), not sales; no platform publishes brand-level sales data; category counts sum higher than the total because 574 brands sit in more than one category.
+1. **Header** — title and date line (issue date · news window · categories · total brands/listings). No methodology note under the date line — the user removed it; do not add it back.
 2. **Executive Summary** (blue-bordered box) — only in-window stories may be summarised as news; if the cycle is quiet, say so plainly.
 3. **Sections in order** — Marketplaces (Amazon & Flipkart), Beauty, Luxury Beauty, Grocery, Baby, Health & Personal Care, Quick Commerce (Blinkit, Instamart, Zepto). Each category heading carries its brand/listing counts.
 4. **Per-section "Not in our portfolio" callout** (green box) — catalogue/selection analysis, not news; it is allowed to persist across issues unchanged.
