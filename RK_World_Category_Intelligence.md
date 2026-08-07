@@ -2,13 +2,15 @@
 
 **August 06, 2026** · News window: August 04–06, 2026 · Beauty · Luxury Beauty · Grocery · Baby · Health & Personal Care · 2,726 brands · 8,807 listings on Amazon India
 
+*Ranked by catalogue breadth — how many sub-categories a brand occupies in our catalogue — not by sales. No platform publishes brand-level sales data. Category brand counts sum higher than 2,726 because 574 brands sit in more than one category.*
+
 ---
 
 ## Executive Summary
 
-One major story falls inside the 2-day window: Marico's Q1 FY27 results — its strongest quarter in seven years, with revenue up 22.9% and e-commerce up more than 50% on the back of quick commerce. That covers two of our brands directly: **Beardo** in Beauty and **Just Herbs** in Luxury Beauty. *(Business Standard, 4 Aug 2026)*
+One major story falls inside the 3-day window: Marico's Q1 FY27 results — its strongest quarter in seven years, with revenue up 22.9% and e-commerce up more than 50% on the back of quick commerce. That covers two of our brands directly: **Beardo** in Beauty and **Just Herbs** in Luxury Beauty. *(Business Standard, 4 Aug 2026)*
 
-No other top-25 brand, marketplace or quick-commerce platform published a major story in the last 2 days. A quiet cycle for the categories overall.
+No other top-25 brand, marketplace or quick-commerce platform published a major story in the last 3 days. A quiet cycle for the categories overall.
 
 ## Marketplaces — Amazon & Flipkart *(our selling channels)*
 
@@ -67,9 +69,9 @@ No other top-25 brand, marketplace or quick-commerce platform published a major 
 
 ## Quick Commerce — Blinkit, Instamart, Zepto *(the channel taking share)*
 
-- **Blinkit** — *No major news today (last major news: Q1 FY27 net order value ₹17,132 Cr, up 86% YoY; fifth straight quarter of EBITDA improvement)*.
-- **Instamart** — *No major news today (last major news: Instamart names former Myntra chief Nandita Sinha as CEO)*.
-- **Zepto** — *No major news today (last major news: paused its IPO as the quick-commerce funding environment tightens)*.
+1. **Blinkit** — *No major news today (last major news: Q1 FY27 net order value ₹17,132 Cr, up 86% YoY; fifth straight quarter of EBITDA improvement)*.
+2. **Instamart** — *No major news today (last major news: [former Myntra chief Nandita Sinha takes over as Instamart CEO, effective 3 Aug 2026](https://theprint.in/feature/nandita-sinha-swiggy-instamart-ceo-scale-myntra/2999322/))*.
+3. **Zepto** — *No major news today (last major news: paused its IPO as the quick-commerce funding environment tightens)*.
 
 ---
 
