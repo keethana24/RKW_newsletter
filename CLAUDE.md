@@ -23,13 +23,13 @@ Always update the HTML and the Markdown together; they must carry identical cont
 
 Every brand/platform row is numbered and **always carries a story with its source and date** — the page must never read as a list of "No major news today":
 
-1. **News inside the window** (`news` in the content JSON) — gets a blue **NEW** badge:
-   `NEW **Brand** — <story text>. (Source Name, D Mon YYYY)`
-2. **Latest story outside the window** (`recent`) — same format, no badge; the date shown tells the reader its age:
+1. **News inside the window** (`news` in the content JSON):
+   `**Brand** — <story text>. (Source Name, D Mon YYYY)`
+2. **Latest story outside the window** (`recent`) — same format; the date shown tells the reader its age:
    `**Brand** — <story text>. (Source Name, date)`
 3. The grey `No major news today (…)` forms still exist in the generator but are a **last resort** — only for a brand that must appear and truly has no story on record. Prefer swapping in a different brand that has one.
 
-Rank rows: in-window NEW stories first (by weight), then recent stories by freshness.
+Rank rows: in-window stories first (by weight), then recent stories by freshness.
 
 ## Structure of an issue
 
