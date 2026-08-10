@@ -6,11 +6,11 @@
 
 ## Executive Summary
 
-A quiet weekend window after results week — but the Independence Day sale war is still running on our channels: **Flipkart's Freedom Sale** opened to all customers on 8 August with bank discounts, hourly deals and a daily 6–7 PM "Price Crash", while Amazon's Great Freedom Sale continues through the 12th. Brand rows below are now selected news-first: brands with stories inside the window take the top slots.
+The Independence Day sale war is still running on our channels: **Flipkart's Freedom Sale** opened to all customers on 8 August with bank discounts, hourly deals and a daily 6–7 PM "Price Crash", Amazon's Great Freedom Sale runs through the 12th, and Nykaa's own Freedom Sale starts today. Brand rows below are selected news-first: brands with stories inside the window take the top slots.
 
-The filings season is where the data is. **Paper Boat's** parent closed FY26 at ₹760 Cr revenue, up 14%, but profit collapsed 96% (Entrackr, 8 Aug). **Milky Mist's** ₹1,553 Cr IPO opened its anchor book today, with subscription from tomorrow. **Gopal Snacks** posted a 409% Q1 profit jump as its fire-hit plant recovered, and sexual-wellness maker **Cupid** grew Q1 profit 194% and raised FY27 guidance. In beauty, Nykaa's Best in Beauty awards (8 Aug, a company release) map where demand is heading — K-beauty swept several categories.
+Filings and disclosures carried the weekend. **Paper Boat's** parent closed FY26 at ₹760 Cr revenue, up 14%, with profit down 96% (Entrackr, 8 Aug). **Milky Mist's** ₹1,553 Cr IPO opened its anchor book today. **Gopal Snacks** posted a 409% Q1 profit jump, and **Cupid** grew Q1 profit 194% and raised guidance. **Honasa (Mamaearth)** disclosed that Dubai's top court closed its distributor dispute with no expected financial impact (8 Aug). In beauty, Nykaa's Best in Beauty awards mapped demand — K-beauty swept several categories — and campaign week put Himalaya BabyCare and Pears in the trade-press roundups.
 
-Watch list for the coming days: Honasa (Mamaearth) Q1 results on 13 August, the Blinkit–Zee copyright hearing on the 14th, Colgate's investor day on the 17th, and Dabur's FSSAI hearing on the 24th.
+Watch list: Honasa Q1 results 13 August, the Blinkit–Zee copyright hearing on the 14th, Patanjali Foods Q1 ~14th, Colgate's investor day on the 17th, Dabur's FSSAI hearing on the 24th.
 
 ## Marketplaces — Amazon & Flipkart *(our selling channels)*
 
@@ -19,21 +19,21 @@ Watch list for the coming days: Honasa (Mamaearth) Q1 results on 13 August, the 
 
 ## Beauty *(1,104 brands · 3,266 listings)*
 
-1. **Nykaa** — announced the third edition of its ["Best in Beauty 2026" awards](https://www.business-standard.com/content/press-releases-ani/nykaa-best-in-beauty-2026-honours-india-s-most-loved-beauty-products-and-brands-126080800352_1.html) — 3.2 million consumer votes across 60 categories. K-beauty labels swept multiple categories, with Dot & Key, Kay Beauty, Foxtale and WishCare among the homegrown winners — a read on where beauty demand is heading. *(Business Standard / ANI, 8 Aug 2026 — press release, treat as marketing)*
-2. **Mamaearth** — *No major news today (last major news: Honasa guides ~30% growth for Q1 FY27; results due 13 August)*.
+1. **Nykaa** — announced the third edition of its ["Best in Beauty 2026" awards](https://www.business-standard.com/content/press-releases-ani/nykaa-best-in-beauty-2026-honours-india-s-most-loved-beauty-products-and-brands-126080800352_1.html) — 3.2 million consumer votes across 60 categories. K-beauty labels swept multiple categories, with Dot & Key, Kay Beauty, Foxtale and WishCare among the homegrown winners — a read on where beauty demand is heading. Nykaa's own Freedom Sale runs 10–17 August with up to 60% off. *(Business Standard / ANI, 8 Aug 2026 — press release, treat as marketing)*
+2. **Bombay Shaving Company** — *No major news today (last major news: [FY26 revenue jumped 139% to ₹635 Cr, nearing break-even](https://entrackr.com/fintrackr/bombay-shaving-company-revenue-jumps-to-rs-635-cr-in-fy26-nears-break-even-12201254))*.
 3. **Beardo** — *No major news today (last major news: [FY26 revenue up 40% to ₹299 Cr, profit up 70%](https://entrackr.com/fintrackr/beardo-nears-rs-300-cr-revenue-in-fy26-profit-jumps-70-12231894))*.
-4. **Typsy Beauty** — *No major news today (last major news: [raised ₹20 Cr led by Saama Capital for quick-commerce and offline expansion](https://www.exchange4media.com/marketing-news/typsy-beauty-raises-rs-20-crore-in-funding-round-led-by-saama-capital-157054.html))*.
-5. **Sugar Cosmetics** — *No major news today (last major news: reported seeking ₹100–150 Cr at a cut-down ₹1,400–1,500 Cr valuation as FY26 revenue slipped to ₹380 Cr)*.
+4. **Typsy Beauty** — *No major news today (last major news: [raised ₹20 Cr led by Saama Capital for quick-commerce and offline expansion](https://inc42.com/buzz/bpc-brand-typsy-beauty-raises-%E2%82%B920-cr-to-double-down-on-quick-commerce-offline-retail/))*.
+5. **Mamaearth** — *No major news today (last major news: Honasa guides ~30% growth for Q1 FY27; results due 13 August)*.
 
 > **Not in our portfolio:** Kay Beauty (Nykaa-owned, route likely committed), Neemli Naturals, Ruby's Organics, Typsy Beauty (newly funded, worth a selection check). Almost every fast-growing beauty brand we tested was already ours.
 
 ## Luxury Beauty *(209 brands · 578 listings)*
 
 1. **Aminu** — *No major news today (last major news: [Nykaa acquired 51% of the premium skincare brand for ₹32 Cr](https://www.business-standard.com/companies/quarterly-results/nykaa-q1-fy27-results-net-profit-rises-3-3-times-to-79-76-crore-126080401292_1.html), disclosed with its Q1 results)*.
-2. **Forest Essentials** — *No major news today (last major news: [Estée Lauder to move to full ownership, expected to close in H2 2026](https://www.business-standard.com/industry/news/us-beauty-major-estee-lauder-to-acquire-ayurveda-brand-forest-essentials-126030500289_1.html))*.
-3. **Just Herbs** — *No major news today (last major news: covered by Marico's Q1 FY27 — revenue +23%, e-commerce +50% on quick commerce)*.
-4. **Kama Ayurveda** — *No major news today (last major news: [launched the Sandanya anti-blemish skincare collection](https://www.aninews.in/news/business/kama-ayurveda-launches-sandanya-anti-blemish-skincare-collection-with-mahieka-sharma-as-campaign-ambassador20260403104614/))*.
-5. **82°E** — *No major news today (last major news: [Nykaa reported in talks for a majority stake](https://www.medianama.com/2026/04/223-nykaa-deepika-padukone-82e-acquisition-talks/) in Deepika Padukone's brand; FY25 sales ₹14.7 Cr)*.
+2. **82°E** — *No major news today (last major news: [Nykaa reported in talks for a majority stake](https://www.medianama.com/2026/04/223-nykaa-deepika-padukone-82e-acquisition-talks/) in Deepika Padukone's brand; FY25 sales ₹14.7 Cr)*.
+3. **Dr. Melaxin** — *No major news today (last major news: [the K-beauty dermo brand debuted in India exclusively via Reliance's Tira](https://www.businesstoday.in/industry/story/reliances-tira-brings-south-korean-dermo-cosmetics-brand-dr-melaxin-to-india-544336-2026-07-21) — a premium market-entry signal)*.
+4. **Forest Essentials** — *No major news today (last major news: [Estée Lauder to move to full ownership, expected to close in H2 2026](https://www.business-standard.com/industry/news/us-beauty-major-estee-lauder-to-acquire-ayurveda-brand-forest-essentials-126030500289_1.html))*.
+5. **Just Herbs** — *No major news today (last major news: covered by Marico's Q1 FY27 — revenue +23%, e-commerce +50% on quick commerce)*.
 
 > **Not in our portfolio:** Ohria Ayurveda, Bombay Perfumery, 82°E, Aminu, Dolce & Gabbana, Elemis, Urban Decay, Aveda, Paula's Choice, Anessa, Biodance. Laura Mercier, La Roche-Posay and Eucerin are already ours.
 
@@ -49,21 +49,21 @@ Watch list for the coming days: Honasa (Mamaearth) Q1 results on 13 August, the 
 
 ## Baby *(295 brands · 792 listings)*
 
-1. **FirstCry (Babyhug)** — *No major news today (last major news: FY26 revenue ₹8,547 Cr, up 12%, adjusted EBITDA up 24%; Q1 FY27 results awaited)*.
-2. **R for Rabbit** — *No major news today (last major news: [$27 Mn Series B led by Filter Capital](https://www.business-standard.com/companies/news/r-for-rabbit-raises-27-million-series-b-funding-125081900968_1.html))*.
-3. **Himalaya BabyCare** — *No major news today (last major news: [new campaign built on baby skin pH 5.5](https://www.afaqs.com/news/advertising/himalaya-babycare-highlights-baby-skin-ph-in-new-campaign-12234407) — ad-industry coverage)*.
-4. **Huggies** — *No major news today (last major news: [Kimberly-Clark–Kenvue $40 Bn merger approved by shareholders, closing expected H2 2026](https://www.investor.kimberly-clark.com/news-releases/news-release-details/kimberly-clark-and-kenvue-shareholders-overwhelmingly-approve))*.
-5. **Bumtum** — *No major news today (last major news: [Inc42 profiles its Tier II/III private-label playbook, revenue ₹150 Cr and growing](https://inc42.com/startups/how-bumtum-is-making-quality-baby-care-accessible-in-indias-tier-ii-and-iii-regions/))*.
+1. **Mamaearth (Honasa)** — Dubai's top court [closed the long-running RSM distributor dispute, upholding a ~₹4.4 Cr award](https://inc42.com/buzz/dubai-court-upholds-aed-25-07-mn-ruling-against-honasa-in-distributorship-dispute/); Honasa's exchange disclosure of 8 August says an Indian arbitral award bars enforcement and it expects no financial impact. Q1 results due 13 August. *(Inc42 / BSE disclosure, 8 Aug 2026)*
+2. **Himalaya BabyCare** — its "Matchy Matchy pH" campaign for the pH-5.5 Gentle Range — shampoo, wash, lotion and cream pitched as matching baby skin's natural pH — [featured in Adgully's week-in-ads roundup](https://www.adgully.com/post/19036/this-week-in-ads-the-weeks-most-talked-about-brand-campaigns). *(Adgully, 8 Aug 2026 — campaign roundup; launch covered 6 Aug)*
+3. **FirstCry (Babyhug)** — *No major news today (last major news: FY26 revenue ₹8,547 Cr, up 12%, adjusted EBITDA up 24%; Q1 FY27 results awaited)*.
+4. **R for Rabbit** — *No major news today (last major news: [$27 Mn Series B led by Filter Capital](https://www.business-standard.com/companies/news/r-for-rabbit-raises-27-million-series-b-funding-125081900968_1.html))*.
+5. **Mother Sparsh** — *No major news today (last major news: [ITC raised its stake to 49.32% with a further ₹30 Cr](https://scanx.trade/stock-market-news/companies/itc-acquires-additional-stake-in-mother-sparsh-for-30-crores/40740901); FY26 turnover ₹138.5 Cr)*.
 
 > **Not in our portfolio:** Babyhug, Kindlife, Peeko, Tinystep, R for Rabbit (newly funded, wide gear range). Coterie and Peachies are US and UK premium nappy brands with no India presence. Pampers, Huggies and SuperBottoms are already ours.
 
 ## Health & Personal Care *(995 brands · 2,252 listings)*
 
 1. **Cupid** — the sexual-wellness maker's Q1 FY27 [net profit jumped 194% to ₹44.2 Cr on revenue up 159%](https://scanx.trade/stock-market-news/companies/cupid-q1-results-net-profit-surges-194-yoy-to-44-16-crore/47666613); FY27 guidance raised to ₹725–750 Cr on a five-year South African national condom programme. Sells condoms and lubricants on Amazon India. *(exchange filings via ScanX, 8 Aug 2026 — filing aggregator; exact publish date 7–8 Aug)*
-2. **Dabur** — *No major news today (last major news: [Delhi HC stayed the FSSAI '100%' claims order, next hearing 24 August](https://www.business-standard.com/india-news/delhi-hc-stays-fssai-ban-on-dabur-products-with-100-pure-claims-126080701002_1.html); a USFDA warning letter also hit its Silvassa plant on 5 August)*.
-3. **Godrej Consumer** — *No major news today (last major news: [Q1 FY27 profit up 11.5% to ₹504 Cr, revenue up 18.3%](https://www.business-standard.com/companies/quarterly-results/godrej-consumer-products-q1-results-net-profit-up-11-5-to-504-5-cr-126080700969_1.html))*.
-4. **Patanjali** — *No major news today (last major news: Ramdev and Balkrishna filed a fresh unconditional apology in the Supreme Court misleading-ads case; Patanjali Foods Q1 expected ~14 August)*.
-5. **Zydus Wellness** — *No major news today (last major news: [Q1 FY27 net sales up 67% to ₹1,430 Cr, adjusted profit up 26.5%](https://www.business-standard.com/companies/quarterly-results/zydus-wellness-q1fy27-result-net-profit-falls-7-to-118-9-crore-126080400789_1.html))*.
+2. **Pears (HUL)** — the "Farak Clear Hai" film — taking viewers inside the making of the transparent bar — [made bestmediainfo's Super 7 ads of the week](https://bestmediainfo.com/ad-craft/super-7-ads-of-the-week-which-campaigns-made-familiar-ideas-feel-new-12239892). *(bestmediainfo, 8 Aug 2026 — campaign roundup; launch covered 6–7 Aug)*
+3. **Dabur** — *No major news today (last major news: [Delhi HC stayed the FSSAI '100%' claims order, next hearing 24 August](https://www.business-standard.com/india-news/delhi-hc-stays-fssai-ban-on-dabur-products-with-100-pure-claims-126080701002_1.html); a USFDA warning letter also hit its Silvassa plant on 5 August)*.
+4. **Godrej Consumer** — *No major news today (last major news: [Q1 FY27 profit up 11.5% to ₹504 Cr, revenue up 18.3%](https://www.business-standard.com/companies/quarterly-results/godrej-consumer-products-q1-results-net-profit-up-11-5-to-504-5-cr-126080700969_1.html))*.
+5. **Patanjali** — *No major news today (last major news: Ramdev and Balkrishna filed a fresh unconditional apology in the Supreme Court misleading-ads case; Patanjali Foods Q1 expected ~14 August)*.
 
 > **Not in our portfolio:** Pee Safe, Setu Nutrition, Gynoveda, Zeroharm, HealthKart, Cureveda. Bold Care, Nua and Carmesi are already ours.
 
