@@ -17,9 +17,10 @@ Rules enforced:
   `window_days` days of the issue date are accepted; anything else must be a
   bracket row ("no_news" with a last-major-news headline, or "no_prior").
 - Row formats:
-    news     -> Brand -- <story>. (Source, D Mon YYYY)
-    no_news  -> Brand -- No major news today (last major news: <headline>).
-    no_prior -> Brand -- No major news today (no prior story found).
+    news     -> NEW badge + Brand -- <story>. (Source, D Mon YYYY)  [must be in-window]
+    recent   -> Brand -- <story>. (Source, date)  [brand's latest story, any date]
+    no_news  -> Brand -- No major news today (last major news: <headline>).  [last resort]
+    no_prior -> Brand -- No major news today (no prior story found).  [last resort]
 
 Inline markup accepted in text fields:
     **bold**            -> bold brand/keyword
@@ -62,6 +63,8 @@ STYLE = """\
   .n { color:#000; font-weight:bold; margin-right:5px; }
   .src { color:#a0a6b4; font-size:11.5px; }
   .quiet { color:#8a90a0; font-size:12.5px; font-style:italic; }
+  .new { background:#1a56db; color:#fff; font-size:10px; font-weight:bold;
+         padding:1px 5px; border-radius:3px; margin-right:6px; vertical-align:1px; }
   a { color:#1a56db; text-decoration:none; }
   a:hover { text-decoration:underline; }
   .gap { background:#f3faf6; border-left:3px solid #0f766e; padding:9px 14px; margin-top:9px; }
@@ -114,6 +117,10 @@ def inline_html(text, arrow_links=False):
 
 
 def check_window(row, start, end):
+    if row["type"] == "recent":
+        if not row.get("date"):
+            raise SystemExit(f"Row {row['brand']!r} of type 'recent' needs a date.")
+        return
     if row["type"] != "news":
         return
     pub = parse_pub_date(row["date"])
@@ -126,12 +133,13 @@ def check_window(row, start, end):
 def row_html(row, number):
     n = f'<span class="n">{number}.</span>'
     brand = html.escape(row["brand"], quote=False)
-    if row["type"] == "news":
+    if row["type"] in ("news", "recent"):
+        badge = '<span class="new">NEW</span>' if row["type"] == "news" else ""
         src = f'{html.escape(row["source"], quote=False)}, {row["date"]}'
         if row.get("source_note"):
             src += " — " + html.escape(row["source_note"], quote=False)
         body = inline_html(row["text"], arrow_links=True)
-        return (f'  <div class="row">{n}<span class="sub">{brand}</span> '
+        return (f'  <div class="row">{n}{badge}<span class="sub">{brand}</span> '
                 f'<span class="txt">— {body} <span class="src">{src}</span></span></div>')
     if row["type"] == "no_news":
         quiet = f'No major news today (last major news: {inline_html(row["last"], arrow_links=True)})'
@@ -142,11 +150,12 @@ def row_html(row, number):
 
 
 def row_md(row, number):
-    if row["type"] == "news":
+    if row["type"] in ("news", "recent"):
+        badge = "**NEW** · " if row["type"] == "news" else ""
         src = f"{row['source']}, {row['date']}"
         if row.get("source_note"):
             src += " — " + row["source_note"]
-        return f"{number}. **{row['brand']}** — {row['text']} *({src})*"
+        return f"{number}. {badge}**{row['brand']}** — {row['text']} *({src})*"
     if row["type"] == "no_news":
         return f"{number}. **{row['brand']}** — *No major news today (last major news: {row['last']})*."
     return f"{number}. **{row['brand']}** — *No major news today (no prior story found)*."

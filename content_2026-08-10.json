@@ -13,7 +13,7 @@
     "listings": "8,807"
   },
   "executive_summary": [
-    "The Independence Day sale war is still running on our channels: **Flipkart's Freedom Sale** opened to all customers on 8 August with bank discounts, hourly deals and a daily 6–7 PM \"Price Crash\", Amazon's Great Freedom Sale runs through the 12th, and Nykaa's own Freedom Sale starts today. Brand rows below are selected news-first: brands with stories inside the window take the top slots.",
+    "The Independence Day sale war is still running on our channels: **Flipkart's Freedom Sale** opened to all customers on 8 August with bank discounts, hourly deals and a daily 6–7 PM \"Price Crash\", Amazon's Great Freedom Sale runs through the 12th, and Nykaa's own Freedom Sale starts today. Every brand row below carries a story with its date — rows marked NEW were published inside the 2-day window; the rest are each brand's latest major story.",
     "Filings and disclosures carried the weekend. **Paper Boat's** parent closed FY26 at ₹760 Cr revenue, up 14%, with profit down 96% (Entrackr, 8 Aug). **Milky Mist's** ₹1,553 Cr IPO opened its anchor book today. **Gopal Snacks** posted a 409% Q1 profit jump, and **Cupid** grew Q1 profit 194% and raised guidance. **Honasa (Mamaearth)** disclosed that Dubai's top court closed its distributor dispute with no expected financial impact (8 Aug). In beauty, Nykaa's Best in Beauty awards mapped demand — K-beauty swept several categories — and campaign week put Himalaya BabyCare and Pears in the trade-press roundups.",
     "Watch list: Honasa Q1 results 13 August, the Blinkit–Zee copyright hearing on the 14th, Patanjali Foods Q1 ~14th, Colgate's investor day on the 17th, Dabur's FSSAI hearing on the 24th."
   ],
@@ -32,8 +32,11 @@
         },
         {
           "brand": "Amazon",
-          "type": "no_news",
-          "last": "[Great Freedom Sale 2026 went live on 7 August](https://press.aboutamazon.com/in/2026/8/amazon-indias-great-freedom-sale-2026-live-now-discover-blockbuster-deals-and-made-in-india-favorites-with-ai-powered-shopping), running through the 12th with a 10% HDFC instant discount — company release, treat as marketing"
+          "type": "recent",
+          "text": "its [Great Freedom Sale went live on 7 August](https://press.aboutamazon.com/in/2026/8/amazon-indias-great-freedom-sale-2026-live-now-discover-blockbuster-deals-and-made-in-india-favorites-with-ai-powered-shopping) and runs through the 12th — beauty, grocery and essentials among the headline categories, 10% HDFC instant discount, Amazon Now minutes-delivery bundled in.",
+          "source": "Amazon Press Center",
+          "date": "7 Aug 2026",
+          "source_note": "company release, treat as marketing"
         }
       ]
     },
@@ -50,24 +53,32 @@
           "source_note": "press release, treat as marketing"
         },
         {
-          "brand": "Bombay Shaving Company",
-          "type": "no_news",
-          "last": "[FY26 revenue jumped 139% to ₹635 Cr, nearing break-even](https://entrackr.com/fintrackr/bombay-shaving-company-revenue-jumps-to-rs-635-cr-in-fy26-nears-break-even-12201254)"
-        },
-        {
           "brand": "Beardo",
-          "type": "no_news",
-          "last": "[FY26 revenue up 40% to ₹299 Cr, profit up 70%](https://entrackr.com/fintrackr/beardo-nears-rs-300-cr-revenue-in-fy26-profit-jumps-70-12231894)"
+          "type": "recent",
+          "text": "closed FY26 just short of ₹300 Cr: [operating revenue up 40% to ₹299 Cr, profit up 70% to ₹22 Cr](https://entrackr.com/fintrackr/beardo-nears-rs-300-cr-revenue-in-fy26-profit-jumps-70-12231894), EBITDA margin 10.6%. Marico-owned.",
+          "source": "Entrackr",
+          "date": "5 Aug 2026"
         },
         {
           "brand": "Typsy Beauty",
-          "type": "no_news",
-          "last": "[raised ₹20 Cr led by Saama Capital for quick-commerce and offline expansion](https://inc42.com/buzz/bpc-brand-typsy-beauty-raises-%E2%82%B920-cr-to-double-down-on-quick-commerce-offline-retail/)"
+          "type": "recent",
+          "text": "[raised ₹20 Cr led by Saama Capital](https://inc42.com/buzz/bpc-brand-typsy-beauty-raises-%E2%82%B920-cr-to-double-down-on-quick-commerce-offline-retail/) to double down on quick commerce and offline retail, enter skincare and scale its Spritz fragrance sub-brand.",
+          "source": "Inc42",
+          "date": "6 Aug 2026"
+        },
+        {
+          "brand": "Bombay Shaving Company",
+          "type": "recent",
+          "text": "[FY26 revenue jumped 139% to ₹635 Cr, nearing break-even](https://entrackr.com/fintrackr/bombay-shaving-company-revenue-jumps-to-rs-635-cr-in-fy26-nears-break-even-12201254) on adjusted EBITDA.",
+          "source": "Entrackr",
+          "date": "late Jul 2026"
         },
         {
           "brand": "Mamaearth",
-          "type": "no_news",
-          "last": "Honasa guides ~30% growth for Q1 FY27; results due 13 August"
+          "type": "recent",
+          "text": "Honasa guides ~30% growth for Q1 FY27 with double-digit operating margin; [results due 13 August](https://inc42.com/buzz/honasa-consumer-projects-30-yoy-growth-in-q1-fy27/) — the next beauty catalyst.",
+          "source": "Inc42",
+          "date": "9 Jul 2026"
         }
       ],
       "gap": {
@@ -81,28 +92,38 @@
       "rows": [
         {
           "brand": "Aminu",
-          "type": "no_news",
-          "last": "[Nykaa acquired 51% of the premium skincare brand for ₹32 Cr](https://www.business-standard.com/companies/quarterly-results/nykaa-q1-fy27-results-net-profit-rises-3-3-times-to-79-76-crore-126080401292_1.html), disclosed with its Q1 results"
-        },
-        {
-          "brand": "82°E",
-          "type": "no_news",
-          "last": "[Nykaa reported in talks for a majority stake](https://www.medianama.com/2026/04/223-nykaa-deepika-padukone-82e-acquisition-talks/) in Deepika Padukone's brand; FY25 sales ₹14.7 Cr"
-        },
-        {
-          "brand": "Dr. Melaxin",
-          "type": "no_news",
-          "last": "[the K-beauty dermo brand debuted in India exclusively via Reliance's Tira](https://www.businesstoday.in/industry/story/reliances-tira-brings-south-korean-dermo-cosmetics-brand-dr-melaxin-to-india-544336-2026-07-21) — a premium market-entry signal"
-        },
-        {
-          "brand": "Forest Essentials",
-          "type": "no_news",
-          "last": "[Estée Lauder to move to full ownership, expected to close in H2 2026](https://www.business-standard.com/industry/news/us-beauty-major-estee-lauder-to-acquire-ayurveda-brand-forest-essentials-126030500289_1.html)"
+          "type": "recent",
+          "text": "[Nykaa acquired 51% of the premium skincare brand for ₹32 Cr](https://www.business-standard.com/companies/quarterly-results/nykaa-q1-fy27-results-net-profit-rises-3-3-times-to-79-76-crore-126080401292_1.html), disclosed with its Q1 results — premium skincare consolidation continues.",
+          "source": "Business Standard",
+          "date": "4 Aug 2026"
         },
         {
           "brand": "Just Herbs",
-          "type": "no_news",
-          "last": "covered by Marico's Q1 FY27 — revenue +23%, e-commerce +50% on quick commerce"
+          "type": "recent",
+          "text": "covered by Marico's Q1 FY27: revenue +23%, e-commerce +50% on quick commerce; digital portfolio exited FY26 at ₹1,100 Cr ARR.",
+          "source": "Business Standard",
+          "date": "4 Aug 2026"
+        },
+        {
+          "brand": "Dr. Melaxin",
+          "type": "recent",
+          "text": "[the K-beauty dermo brand debuted in India exclusively via Reliance's Tira](https://www.businesstoday.in/industry/story/reliances-tira-brings-south-korean-dermo-cosmetics-brand-dr-melaxin-to-india-544336-2026-07-21) — premium K-beauty entry continues.",
+          "source": "Business Today",
+          "date": "21 Jul 2026"
+        },
+        {
+          "brand": "82°E",
+          "type": "recent",
+          "text": "[Nykaa reported in talks for a majority stake](https://www.medianama.com/2026/04/223-nykaa-deepika-padukone-82e-acquisition-talks/) in Deepika Padukone's brand; FY25 sales ₹14.7 Cr.",
+          "source": "Medianama",
+          "date": "Apr 2026"
+        },
+        {
+          "brand": "Forest Essentials",
+          "type": "recent",
+          "text": "[Estée Lauder is moving to full ownership, expected to close in H2 2026](https://www.business-standard.com/industry/news/us-beauty-major-estee-lauder-to-acquire-ayurveda-brand-forest-essentials-126030500289_1.html); roughly ₹400 Cr revenue across about 200 stores.",
+          "source": "Business Standard",
+          "date": "5 Mar 2026"
         }
       ],
       "gap": {
@@ -139,13 +160,17 @@
         },
         {
           "brand": "Britannia",
-          "type": "no_news",
-          "last": "[Q1 FY27 profit up 14% to ₹591 Cr on revenue up 9.5%](https://www.business-standard.com/companies/quarterly-results/britannia-q1-profit-rises-14-to-591-cr-as-middle-east-war-pushes-up-costs-126080602047_1.html)"
+          "type": "recent",
+          "text": "[Q1 FY27 profit rose 14% to ₹591 Cr on revenue up 9.5% to ₹4,964 Cr](https://www.business-standard.com/companies/quarterly-results/britannia-q1-profit-rises-14-to-591-cr-as-middle-east-war-pushes-up-costs-126080602047_1.html); shares gained 4.6% on the results.",
+          "source": "Business Standard",
+          "date": "6 Aug 2026"
         },
         {
           "brand": "Mrs Bectors",
-          "type": "no_news",
-          "last": "[Q1 FY27 profit up 25.5% with margins expanding](https://www.investing.com/news/company-news/mrs-bectors-q1-fy27-slides-profit-surges-255-margins-expand-93CH-4846571)"
+          "type": "recent",
+          "text": "[Q1 FY27 profit surged 25.5% with margins expanding](https://www.investing.com/news/company-news/mrs-bectors-q1-fy27-slides-profit-surges-255-margins-expand-93CH-4846571); shares rose 6.6%.",
+          "source": "Investing.com",
+          "date": "7 Aug 2026"
         }
       ],
       "gap": {
@@ -174,18 +199,24 @@
         },
         {
           "brand": "FirstCry (Babyhug)",
-          "type": "no_news",
-          "last": "FY26 revenue ₹8,547 Cr, up 12%, adjusted EBITDA up 24%; Q1 FY27 results awaited"
-        },
-        {
-          "brand": "R for Rabbit",
-          "type": "no_news",
-          "last": "[$27 Mn Series B led by Filter Capital](https://www.business-standard.com/companies/news/r-for-rabbit-raises-27-million-series-b-funding-125081900968_1.html)"
+          "type": "recent",
+          "text": "FY26 revenue ₹8,547 Cr, up 12%, with adjusted EBITDA up 24% to ₹486 Cr; Q1 FY27 results awaited.",
+          "source": "company results",
+          "date": "May 2026"
         },
         {
           "brand": "Mother Sparsh",
-          "type": "no_news",
-          "last": "[ITC raised its stake to 49.32% with a further ₹30 Cr](https://scanx.trade/stock-market-news/companies/itc-acquires-additional-stake-in-mother-sparsh-for-30-crores/40740901); FY26 turnover ₹138.5 Cr"
+          "type": "recent",
+          "text": "[ITC raised its stake to 49.32% with a further ₹30 Cr](https://scanx.trade/stock-market-news/companies/itc-acquires-additional-stake-in-mother-sparsh-for-30-crores/40740901); FY26 turnover ₹138.5 Cr — strategic-buyer interest in baby D2C.",
+          "source": "Storyboard18",
+          "date": "May 2026"
+        },
+        {
+          "brand": "R for Rabbit",
+          "type": "recent",
+          "text": "[raised a $27 Mn Series B led by Filter Capital](https://www.business-standard.com/companies/news/r-for-rabbit-raises-27-million-series-b-funding-125081900968_1.html) for its baby-gear range.",
+          "source": "Business Standard",
+          "date": "Aug 2025"
         }
       ],
       "gap": {
@@ -215,18 +246,24 @@
         },
         {
           "brand": "Dabur",
-          "type": "no_news",
-          "last": "[Delhi HC stayed the FSSAI '100%' claims order, next hearing 24 August](https://www.business-standard.com/india-news/delhi-hc-stays-fssai-ban-on-dabur-products-with-100-pure-claims-126080701002_1.html); a USFDA warning letter also hit its Silvassa plant on 5 August"
+          "type": "recent",
+          "text": "[the Delhi High Court stayed the FSSAI order barring its \"100% Pure/Natural\" claims](https://www.business-standard.com/india-news/delhi-hc-stays-fssai-ban-on-dabur-products-with-100-pure-claims-126080701002_1.html) on ~11 products; next hearing 24 August. A USFDA warning letter also hit its Silvassa plant on 5 August.",
+          "source": "Business Standard",
+          "date": "7 Aug 2026"
         },
         {
           "brand": "Godrej Consumer",
-          "type": "no_news",
-          "last": "[Q1 FY27 profit up 11.5% to ₹504 Cr, revenue up 18.3%](https://www.business-standard.com/companies/quarterly-results/godrej-consumer-products-q1-results-net-profit-up-11-5-to-504-5-cr-126080700969_1.html)"
+          "type": "recent",
+          "text": "[Q1 FY27 profit rose 11.5% to ₹504 Cr on revenue up 18.3%](https://www.business-standard.com/companies/quarterly-results/godrej-consumer-products-q1-results-net-profit-up-11-5-to-504-5-cr-126080700969_1.html); ₹5 interim dividend, record date 13 August.",
+          "source": "Business Standard",
+          "date": "7 Aug 2026"
         },
         {
           "brand": "Patanjali",
-          "type": "no_news",
-          "last": "Ramdev and Balkrishna filed a fresh unconditional apology in the Supreme Court misleading-ads case; Patanjali Foods Q1 expected ~14 August"
+          "type": "recent",
+          "text": "Ramdev and Balkrishna filed a fresh unconditional apology in the Supreme Court misleading-ads case; Patanjali Foods Q1 expected around 14 August.",
+          "source": "Business Standard",
+          "date": "4 Aug 2026"
         }
       ],
       "gap": {
@@ -239,19 +276,25 @@
       "count_note": "the channel taking share",
       "rows": [
         {
-          "brand": "Blinkit",
-          "type": "no_news",
-          "last": "[Zee's Delhi HC copyright suit over Instagram promos](https://www.storyboard18.com/brand-marketing/zee-takes-blinkit-to-court-over-alleged-copyright-violation-on-instagram-delhi-hc-issues-summons-106216.htm); interim-injunction hearing listed 14 August"
+          "brand": "Instamart",
+          "type": "recent",
+          "text": "Swiggy's Capital Markets Day set the targets: [gross order value to grow 4–5x to ₹1.5 lakh Cr by FY31](https://www.business-standard.com/companies/news/swiggy-targets-10-000-cr-core-earnings-by-fy31-on-instamart-growth-126080600334_1.html), cash break-even within two quarters, an exclusive-products push — and Nandita Sinha took over as CEO on 3 August.",
+          "source": "Business Standard",
+          "date": "6 Aug 2026"
         },
         {
-          "brand": "Instamart",
-          "type": "no_news",
-          "last": "[Swiggy targets Instamart GOV of ₹1.5 lakh Cr by FY31, cash break-even in two quarters](https://www.business-standard.com/companies/news/swiggy-targets-10-000-cr-core-earnings-by-fy31-on-instamart-growth-126080600334_1.html); Nandita Sinha took over as CEO on 3 August"
+          "brand": "Blinkit",
+          "type": "recent",
+          "text": "[Zee is suing it in the Delhi High Court over alleged copyright infringement in Instagram promos](https://www.storyboard18.com/brand-marketing/zee-takes-blinkit-to-court-over-alleged-copyright-violation-on-instagram-delhi-hc-issues-summons-106216.htm); interim-injunction hearing listed for 14 August.",
+          "source": "Storyboard18",
+          "date": "4 Aug 2026"
         },
         {
           "brand": "Zepto",
-          "type": "no_news",
-          "last": "[sealed a ~₹1,000 Cr pre-IPO round and deferred its listing by 2–3 quarters](https://www.business-standard.com/markets/news/zepto-seals-pre-ipo-fundraise-defers-listing-to-focus-on-execution-126080101115_1.html)"
+          "type": "recent",
+          "text": "[sealed a ~₹1,000 Cr pre-IPO round and deferred its listing by 2–3 quarters](https://www.business-standard.com/markets/news/zepto-seals-pre-ipo-fundraise-defers-listing-to-focus-on-execution-126080101115_1.html); institutions reportedly pegged it near a $4.5 Bn valuation, down from $7 Bn.",
+          "source": "Business Standard",
+          "date": "1 Aug 2026"
         }
       ]
     }

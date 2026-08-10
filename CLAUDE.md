@@ -21,16 +21,15 @@ Always update the HTML and the Markdown together; they must carry identical cont
 
 ## Row formats
 
-Every brand/platform row is numbered and uses exactly one of three patterns:
+Every brand/platform row is numbered and **always carries a story with its source and date** — the page must never read as a list of "No major news today":
 
-1. **News inside the window** — normal text with source and date:
-   `**Brand** — <story text>. (Source Name, D Mon YYYY)`
-2. **No news in window, known prior story** — grey italic with a short headline bracket:
-   `**Brand** — No major news today (last major news: <one-line headline>).`
-   - The bracket is a *headline only*: no dates, no source names, no long detail.
-   - Keep the hyperlink on the headline when a source URL exists.
-3. **No news and nothing on record:**
-   `**Brand** — No major news today (no prior story found).`
+1. **News inside the window** (`news` in the content JSON) — gets a blue **NEW** badge:
+   `NEW **Brand** — <story text>. (Source Name, D Mon YYYY)`
+2. **Latest story outside the window** (`recent`) — same format, no badge; the date shown tells the reader its age:
+   `**Brand** — <story text>. (Source Name, date)`
+3. The grey `No major news today (…)` forms still exist in the generator but are a **last resort** — only for a brand that must appear and truly has no story on record. Prefer swapping in a different brand that has one.
+
+Rank rows: in-window NEW stories first (by weight), then recent stories by freshness.
 
 ## Structure of an issue
 
