@@ -40,9 +40,13 @@ Every brand/platform row is numbered and uses exactly one of three patterns:
 4. **Per-section "Not in our portfolio" callout** (green box) — catalogue/selection analysis, not news; it is allowed to persist across issues unchanged.
 5. **Footer** — "RK World Infocom | Confidential — internal use only | News items cover stories published <window> only".
 
-## Style
+## Brand selection (news-first)
 
-- Ranking within a section is by catalogue breadth, top 5 brands per category.
+- Do **not** use a fixed brand list per category. For each issue, research the whole category (any brand that sells or plausibly sells on Amazon India) and fill the top 5 rows with brands that **have news inside the window**, ranked by story weight.
+- Only if fewer than 5 brands have in-window news, fill the remaining slots with the category's widest-catalogue brands as "No major news today (last major news: …)" rows.
+- This keeps the issue carrying real data every day instead of a page of "No major news today".
+
+## Style
 - Sources the issues treat as trusted: Business Standard, Economic Times, Mint, Inc42, Entrackr, afaqs, ThePrint. Flag weaker ones inline (company blogs "treat as marketing", portals with commercial ties, franchise brokerages).
 - Currency in ₹ Cr; growth as % YoY; keep the em-dash prose style of existing issues.
 - HTML styling lives inline in `<style>` in each issue file (blue #1a56db accents, `.quiet` grey italics for no-news rows, `.gap` green callouts). Reuse it as-is from `newsletter_template.html`.
