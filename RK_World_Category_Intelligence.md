@@ -1,78 +1,78 @@
 # RK World Category Intelligence
 
-**August 07, 2026** · News window: August 05–07, 2026 · Beauty · Luxury Beauty · Grocery · Baby · Health & Personal Care · 2,726 brands · 8,807 listings on Amazon India
+**August 10, 2026** · News window: August 08–10, 2026 · Beauty · Luxury Beauty · Grocery · Baby · Health & Personal Care · 2,726 brands · 8,807 listings on Amazon India
 
 ---
 
 ## Executive Summary
 
-The Independence Day sale war is on, and it lands directly on our selling channels: Amazon's **Great Freedom Sale** went live to all customers at midnight on 7 August (Prime early access from the 6th), running through 15 August with beauty, grocery and everyday essentials among the headline categories — and Flipkart's rival Freedom Sale starts 8 August. Both platforms are pushing bank-card discounts and instant delivery. Deals, ad slots and stock positions for the next nine days should be planned around this.
+A quiet weekend window after results week — but the Independence Day sale war is still running on our channels: **Flipkart's Freedom Sale** opened to all customers on 8 August with bank discounts, hourly deals and a daily 6–7 PM "Price Crash", while Amazon's Great Freedom Sale continues through the 12th. Brand rows below are now selected news-first: brands with stories inside the window take the top slots.
 
-Three brand stories broke inside the window: **Beardo** closed FY26 at ₹299 Cr revenue, up 40%, with profit up 70% (Entrackr, 5 Aug); **Dabur** won a Delhi High Court stay of the FSSAI order that had barred its "100% Pure/Natural" claims on around 11 products (7 Aug, next hearing 24 Aug); and Swiggy's Capital Markets Day set **Instamart** a target of growing gross order value four-to-five-fold to ₹1.5 lakh Cr by FY31, with cash break-even guided within two quarters (6 Aug).
+The filings season is where the data is. **Paper Boat's** parent closed FY26 at ₹760 Cr revenue, up 14%, but profit collapsed 96% (Entrackr, 8 Aug). **Milky Mist's** ₹1,553 Cr IPO opened its anchor book today, with subscription from tomorrow. **Gopal Snacks** posted a 409% Q1 profit jump as its fire-hit plant recovered, and sexual-wellness maker **Cupid** grew Q1 profit 194% and raised FY27 guidance. In beauty, Nykaa's Best in Beauty awards (8 Aug, a company release) map where demand is heading — K-beauty swept several categories.
 
-Marico's Q1 results (4 Aug) have now aged out of the window and drop to brackets. The rest of the top 25 is quiet; the next scheduled event is Honasa's Q1 FY27 results on 13 August.
+Watch list for the coming days: Honasa (Mamaearth) Q1 results on 13 August, the Blinkit–Zee copyright hearing on the 14th, Colgate's investor day on the 17th, and Dabur's FSSAI hearing on the 24th.
 
 ## Marketplaces — Amazon & Flipkart *(our selling channels)*
 
-1. **Amazon** — [Great Freedom Sale 2026 is live](https://press.aboutamazon.com/in/2026/8/amazon-indias-great-freedom-sale-2026-live-now-discover-blockbuster-deals-and-made-in-india-favorites-with-ai-powered-shopping) — open to all customers from 12:00 AM on 7 August (Prime members from the 6th), running through Independence Day on the 15th. Deals span smartphones, beauty, grocery and essentials; 10% HDFC instant discount is the headline bank offer, with Amazon Now minutes-delivery bundled into the event. *(Amazon Press Center, 7 Aug 2026 — company release, treat as marketing; sale timing corroborated by Free Press Journal)*
-2. **Flipkart** — its fintech arm super.money launched ["splitStore", a zero-interest instalment marketplace inside its UPI app](https://www.bloomberg.com/news/articles/2026-08-06/flipkart-s-super-money-launches-online-shopping-on-payments-app) — about 6 million products, no credit card required, fulfilled through Flipkart's logistics network, aimed at Gen Z and first-time credit users. Flipkart's own Freedom Sale starts 8 August with SBI card offers. *(Bloomberg, 6 Aug 2026)*
+1. **Flipkart** — its [Freedom Sale opened to all customers on 8 August](https://www.businesstoday.in/technology/news/story/flipkart-freedom-sale-2026-best-smartphones-under-rs40000-with-massive-discounts-547895-2026-08-09) — Plus/VIP early access from the 7th, up to 10% instant bank discounts, hourly "Tick Tock" deals and a 6–7 PM "Price Crash" window, running to Independence Day. *(Business Today, 9 Aug 2026 — consumer-deals coverage)*
+2. **Amazon** — *No major news today (last major news: [Great Freedom Sale 2026 went live on 7 August](https://press.aboutamazon.com/in/2026/8/amazon-indias-great-freedom-sale-2026-live-now-discover-blockbuster-deals-and-made-in-india-favorites-with-ai-powered-shopping), running through the 12th with a 10% HDFC instant discount — company release, treat as marketing)*.
 
 ## Beauty *(1,104 brands · 3,266 listings)*
 
-1. **Bellavita** — *No major news today (last major news: [revenue jumps 2.5X to Rs 456 Cr in FY25, turns profitable](https://entrackr.com/fintrackr/bellavitas-revenue-jumps-25x-to-rs-456-cr-in-fy25-turns-profitable-10975141))*.
-2. **Beardo** — closed FY26 just short of ₹300 Cr: [operating revenue up 40% to ₹299 Cr, profit up 70% to ₹22 Cr](https://entrackr.com/fintrackr/beardo-nears-rs-300-cr-revenue-in-fy26-profit-jumps-70-12231894), EBITDA margin at 10.6%. Marico-owned; 99% of revenue is domestic. *(Entrackr, 5 Aug 2026)*
-3. **Mamaearth** — *No major news today (last major news: Honasa guides high-teens growth for Q1 FY27; results due 13 August)*.
-4. **Plum** — *No major news today (last major news: [Plum BodyLovin' relaunched as an independent brand identity with 60+ SKUs](https://mediabrief.com/plum-bodylovin-unveils-playful-independent-identity/))*.
-5. **Sanfe** — *No major news today (last major news: [criticised for a fairness-claim ad in a social-media backlash](https://inshorts.com/en/news/-sanfe--criticised-for-ad-showing-dark-skinned-woman-turning-fair-after-using-its-cream-1782128225121) — aggregator report, weak source)*.
+1. **Nykaa** — announced the third edition of its ["Best in Beauty 2026" awards](https://www.business-standard.com/content/press-releases-ani/nykaa-best-in-beauty-2026-honours-india-s-most-loved-beauty-products-and-brands-126080800352_1.html) — 3.2 million consumer votes across 60 categories. K-beauty labels swept multiple categories, with Dot & Key, Kay Beauty, Foxtale and WishCare among the homegrown winners — a read on where beauty demand is heading. *(Business Standard / ANI, 8 Aug 2026 — press release, treat as marketing)*
+2. **Mamaearth** — *No major news today (last major news: Honasa guides ~30% growth for Q1 FY27; results due 13 August)*.
+3. **Beardo** — *No major news today (last major news: [FY26 revenue up 40% to ₹299 Cr, profit up 70%](https://entrackr.com/fintrackr/beardo-nears-rs-300-cr-revenue-in-fy26-profit-jumps-70-12231894))*.
+4. **Typsy Beauty** — *No major news today (last major news: [raised ₹20 Cr led by Saama Capital for quick-commerce and offline expansion](https://www.exchange4media.com/marketing-news/typsy-beauty-raises-rs-20-crore-in-funding-round-led-by-saama-capital-157054.html))*.
+5. **Sugar Cosmetics** — *No major news today (last major news: reported seeking ₹100–150 Cr at a cut-down ₹1,400–1,500 Cr valuation as FY26 revenue slipped to ₹380 Cr)*.
 
-> **Not in our portfolio:** Kay Beauty (Nykaa-owned, route likely committed), Neemli Naturals, Ruby's Organics. Almost every fast-growing beauty brand we tested was already ours.
+> **Not in our portfolio:** Kay Beauty (Nykaa-owned, route likely committed), Neemli Naturals, Ruby's Organics, Typsy Beauty (newly funded, worth a selection check). Almost every fast-growing beauty brand we tested was already ours.
 
 ## Luxury Beauty *(209 brands · 578 listings)*
 
-1. **Just Herbs** — *No major news today (last major news: covered by Marico's Q1 FY27 — revenue +22.9%, e-commerce +50% on quick commerce)*.
-2. **L'Occitane** — *No major news today (last major news: [launched a new-concept boutique in Chennai in an experience-led retail push](https://www.indiaretailing.com/french-brauty-brand-loccitane-en-provence-launches-newconcept-boutique-in-chennai))*.
-3. **Kama Ayurveda** — *No major news today (last major news: [launched the Sandanya anti-blemish skincare collection](https://www.aninews.in/news/business/kama-ayurveda-launches-sandanya-anti-blemish-skincare-collection-with-mahieka-sharma-as-campaign-ambassador20260403104614/))*.
-4. **Brillare** — *No major news today (last major news: named a momentum driver in Emami's Q1 FY27, with the strategic-brand portfolio growing 61%)*.
-5. **Forest Essentials** — *No major news today (last major news: [Estée Lauder to move to full ownership, expected to close in H2 2026](https://www.business-standard.com/industry/news/us-beauty-major-estee-lauder-to-acquire-ayurveda-brand-forest-essentials-126030500289_1.html))*.
+1. **Aminu** — *No major news today (last major news: [Nykaa acquired 51% of the premium skincare brand for ₹32 Cr](https://www.business-standard.com/companies/quarterly-results/nykaa-q1-fy27-results-net-profit-rises-3-3-times-to-79-76-crore-126080401292_1.html), disclosed with its Q1 results)*.
+2. **Forest Essentials** — *No major news today (last major news: [Estée Lauder to move to full ownership, expected to close in H2 2026](https://www.business-standard.com/industry/news/us-beauty-major-estee-lauder-to-acquire-ayurveda-brand-forest-essentials-126030500289_1.html))*.
+3. **Just Herbs** — *No major news today (last major news: covered by Marico's Q1 FY27 — revenue +23%, e-commerce +50% on quick commerce)*.
+4. **Kama Ayurveda** — *No major news today (last major news: [launched the Sandanya anti-blemish skincare collection](https://www.aninews.in/news/business/kama-ayurveda-launches-sandanya-anti-blemish-skincare-collection-with-mahieka-sharma-as-campaign-ambassador20260403104614/))*.
+5. **82°E** — *No major news today (last major news: [Nykaa reported in talks for a majority stake](https://www.medianama.com/2026/04/223-nykaa-deepika-padukone-82e-acquisition-talks/) in Deepika Padukone's brand; FY25 sales ₹14.7 Cr)*.
 
-> **Not in our portfolio:** Ohria Ayurveda, Bombay Perfumery, 82°E, Dolce & Gabbana, Elemis, Urban Decay, Aveda, Paula's Choice, Anessa, Biodance. Laura Mercier, La Roche-Posay and Eucerin are already ours.
+> **Not in our portfolio:** Ohria Ayurveda, Bombay Perfumery, 82°E, Aminu, Dolce & Gabbana, Elemis, Urban Decay, Aveda, Paula's Choice, Anessa, Biodance. Laura Mercier, La Roche-Posay and Eucerin are already ours.
 
 ## Grocery *(658 brands · 1,697 listings)*
 
-1. **Urban Platter** — *No major news today (last major news: moved into the heirloom flour segment as khapli atta goes mainstream)*.
-2. **S. Siddhagiri's Satvyk** — *No major news today (last major news: [building zero-waste clean-food retail infrastructure with Adrish](https://www.business-standard.com/content/press-releases-ani/adrish-and-satvyk-build-india-s-first-clean-food-and-zero-waste-retail-infrastructure-126022500293_1.html) — press release, treat as marketing)*.
-3. **Naturaland Organics** — *No major news today (last major news: [Organic World expands with new stores in Bengaluru and Hyderabad](https://www.indianretailer.com/news/organic-world-expands-new-stores-bengaluru-and-hyderabad))*.
-4. **Two Brothers Organic Farms** — *No major news today (last major news: raised a further ₹20 Cr, taking recent funding to ₹130 Cr; targeting ₹2,000 Cr revenue by 2030)*.
-5. **Sattvic Foods** — *No major news today (last major news: launched gluten-free jumbo rolled oats — company blog, treat as marketing)*.
+1. **Paper Boat** — parent Hector Beverages closed FY26 at [₹760 Cr revenue, up 14% — but profit collapsed 96% to ₹2 Cr](https://lapaasvoice.com/paper-boat-revenue-hits-%E2%82%B9760-crore-profit-drops-96-in-fy26) as EBITDA margin halved to 5.4%, with growth leaning on traded goods. *(Entrackr, 8 Aug 2026)*
+2. **Milky Mist** — the value-added dairy brand's [₹1,553 Cr IPO opened its anchor book today](https://www.chittorgarh.com/ipo/milky-mist-dairy-food-ipo/2541/); subscription runs 11–13 August at a ₹133–140 band, listing on the 18th. Paneer, cheese and curd with a strong quick-commerce presence. *(Outlook Business, 10 Aug 2026 — IPO-opening coverage)*
+3. **Gopal Snacks** — Q1 FY27 [profit up 409% to ₹12.9 Cr on revenue up 31%](https://scanx.trade/stock-market-news/companies/gopal-snacks-q1-results-net-profit-up-409-yoy-to-128-47-million/47660184) as its fire-hit Rajkot plant recovered; earnings call held today. *(exchange filings via ScanX, 10 Aug 2026 — filing aggregator, weaker source)*
+4. **Britannia** — *No major news today (last major news: [Q1 FY27 profit up 14% to ₹591 Cr on revenue up 9.5%](https://www.business-standard.com/companies/quarterly-results/britannia-q1-profit-rises-14-to-591-cr-as-middle-east-war-pushes-up-costs-126080602047_1.html))*.
+5. **Mrs Bectors** — *No major news today (last major news: [Q1 FY27 profit up 25.5% with margins expanding](https://www.investing.com/news/company-news/mrs-bectors-q1-fy27-slides-profit-surges-255-margins-expand-93CH-4846571))*.
 
-> **Not in our portfolio — nine out of nine tested were absent:** The Whole Truth, Country Delight, Wingreens Farms, Slurrp Farm, Blue Tokai, Yoga Bar, Open Secret, Yu Foods, Sweet Karam Coffee. Grocery is where selection expansion has the most room.
+> **Not in our portfolio — nine out of nine tested were absent:** The Whole Truth, Country Delight, Wingreens Farms, Slurrp Farm, Blue Tokai, Yoga Bar, Open Secret, Yu Foods, Sweet Karam Coffee. Grocery is where selection expansion has the most room — and Milky Mist's IPO puts a spotlight on value-added dairy.
 
 ## Baby *(295 brands · 792 listings)*
 
-1. **Luvlap** — *No major news today (last major news: [Baby care trends in India](https://www.luvlap.com/blogs/news/baby-care-trends-india) — company blog, treat as marketing)*.
-2. **Mee Mee** — *No major news today (no prior story found)*.
-3. **1st Step** — *No major news today (last major news: 400+ SKU range certified to BIS, EN and ASTM — company profile, not reported news)*.
-4. **Chicco** — *No major news today (last major news: [breast-pump range campaign for World Breastfeeding Week 2026](https://businessnewsthisweek.com/news/chicco-encourages-mothers-to-cherish-their-breastfeeding-journey-with-comfort-and-confidence-during-world-breastfeeding-week-2026/) — PR-wire release, treat as marketing)*.
+1. **FirstCry (Babyhug)** — *No major news today (last major news: FY26 revenue ₹8,547 Cr, up 12%, adjusted EBITDA up 24%; Q1 FY27 results awaited)*.
+2. **R for Rabbit** — *No major news today (last major news: [$27 Mn Series B led by Filter Capital](https://www.business-standard.com/companies/news/r-for-rabbit-raises-27-million-series-b-funding-125081900968_1.html))*.
+3. **Himalaya BabyCare** — *No major news today (last major news: [new campaign built on baby skin pH 5.5](https://www.afaqs.com/news/advertising/himalaya-babycare-highlights-baby-skin-ph-in-new-campaign-12234407) — ad-industry coverage)*.
+4. **Huggies** — *No major news today (last major news: [Kimberly-Clark–Kenvue $40 Bn merger approved by shareholders, closing expected H2 2026](https://www.investor.kimberly-clark.com/news-releases/news-release-details/kimberly-clark-and-kenvue-shareholders-overwhelmingly-approve))*.
 5. **Bumtum** — *No major news today (last major news: [Inc42 profiles its Tier II/III private-label playbook, revenue ₹150 Cr and growing](https://inc42.com/startups/how-bumtum-is-making-quality-baby-care-accessible-in-indias-tier-ii-and-iii-regions/))*.
 
-> **Not in our portfolio:** Babyhug, Kindlife, Peeko, Tinystep. Coterie and Peachies are US and UK premium nappy brands with no India presence — market-entry candidates rather than distribution. Pampers, Huggies and SuperBottoms are already ours.
+> **Not in our portfolio:** Babyhug, Kindlife, Peeko, Tinystep, R for Rabbit (newly funded, wide gear range). Coterie and Peachies are US and UK premium nappy brands with no India presence. Pampers, Huggies and SuperBottoms are already ours.
 
 ## Health & Personal Care *(995 brands · 2,252 listings)*
 
-1. **Himalaya** — *No major news today (last major news: extended its RCB Women partnership into a fourth year with the "Remember Her Face" campaign)*.
-2. **Yuvika** — *No major news today (last major news: went live on Zepto, adding to its Blinkit, Amazon and Flipkart presence — company blog, treat as marketing)*.
-3. **Patanjali** — *No major news today (last major news: [IRDAI clears its ~₹4,500 Cr acquisition of a majority stake in Magma General Insurance](https://www.insurancebusinessmag.com/asia/news/mergers-acquisitions/irdai-clears-patanjalis-move-into-general-insurance-584569.aspx))*.
-4. **Dabur** — the Delhi High Court [stayed the FSSAI order that barred Dabur's "100% Pure/Natural" claims](https://www.barandbench.com/news/litigation/delhi-hc-stays-fssai-order-barring-dabur-from-using-100-pure-claim-for-food-products) on around 11 products including Dabur Honey and Cow Ghee, finding a prima facie case since FSSAI acted without hearing the company; next hearing 24 August. The affected labels can stay on shelves for now. *(Bar & Bench / ANI, 7 Aug 2026)*
-5. **Intimify** — *No major news today (no prior story found)*.
+1. **Cupid** — the sexual-wellness maker's Q1 FY27 [net profit jumped 194% to ₹44.2 Cr on revenue up 159%](https://scanx.trade/stock-market-news/companies/cupid-q1-results-net-profit-surges-194-yoy-to-44-16-crore/47666613); FY27 guidance raised to ₹725–750 Cr on a five-year South African national condom programme. Sells condoms and lubricants on Amazon India. *(exchange filings via ScanX, 8 Aug 2026 — filing aggregator; exact publish date 7–8 Aug)*
+2. **Dabur** — *No major news today (last major news: [Delhi HC stayed the FSSAI '100%' claims order, next hearing 24 August](https://www.business-standard.com/india-news/delhi-hc-stays-fssai-ban-on-dabur-products-with-100-pure-claims-126080701002_1.html); a USFDA warning letter also hit its Silvassa plant on 5 August)*.
+3. **Godrej Consumer** — *No major news today (last major news: [Q1 FY27 profit up 11.5% to ₹504 Cr, revenue up 18.3%](https://www.business-standard.com/companies/quarterly-results/godrej-consumer-products-q1-results-net-profit-up-11-5-to-504-5-cr-126080700969_1.html))*.
+4. **Patanjali** — *No major news today (last major news: Ramdev and Balkrishna filed a fresh unconditional apology in the Supreme Court misleading-ads case; Patanjali Foods Q1 expected ~14 August)*.
+5. **Zydus Wellness** — *No major news today (last major news: [Q1 FY27 net sales up 67% to ₹1,430 Cr, adjusted profit up 26.5%](https://www.business-standard.com/companies/quarterly-results/zydus-wellness-q1fy27-result-net-profit-falls-7-to-118-9-crore-126080400789_1.html))*.
 
 > **Not in our portfolio:** Pee Safe, Setu Nutrition, Gynoveda, Zeroharm, HealthKart, Cureveda. Bold Care, Nua and Carmesi are already ours.
 
 ## Quick Commerce — Blinkit, Instamart, Zepto *(the channel taking share)*
 
-1. **Blinkit** — *No major news today (last major news: [Zee sues Blinkit in the Delhi High Court over alleged copyright infringement in Instagram promos](https://www.storyboard18.com/brand-marketing/zee-takes-blinkit-to-court-over-alleged-copyright-violation-on-instagram-delhi-hc-issues-summons-106216.htm); hearing 14 August)*.
-2. **Instamart** — Swiggy's Capital Markets Day set the targets: [Instamart gross order value to grow 4–5x to ₹1.5 lakh Cr by FY31](https://www.business-standard.com/companies/news/swiggy-targets-10-000-cr-core-earnings-by-fy31-on-instamart-growth-126080600334_1.html), cash break-even within two quarters, 75 new dark stores this quarter (currently 1,171 in 131 cities), and an exclusive-products push. Swiggy shares rose over 5% on the guidance. *(Business Standard, 6 Aug 2026)*
-3. **Zepto** — *No major news today (last major news: [sealed a ~₹1,000 Cr pre-IPO round at about a $4.5 Bn valuation and deferred its listing by 2–3 quarters](https://www.business-standard.com/markets/news/zepto-seals-pre-ipo-fundraise-defers-listing-to-focus-on-execution-126080101115_1.html))*.
+1. **Blinkit** — *No major news today (last major news: [Zee's Delhi HC copyright suit over Instagram promos](https://www.storyboard18.com/brand-marketing/zee-takes-blinkit-to-court-over-alleged-copyright-violation-on-instagram-delhi-hc-issues-summons-106216.htm); interim-injunction hearing listed 14 August)*.
+2. **Instamart** — *No major news today (last major news: [Swiggy targets Instamart GOV of ₹1.5 lakh Cr by FY31, cash break-even in two quarters](https://www.business-standard.com/companies/news/swiggy-targets-10-000-cr-core-earnings-by-fy31-on-instamart-growth-126080600334_1.html); Nandita Sinha took over as CEO on 3 August)*.
+3. **Zepto** — *No major news today (last major news: [sealed a ~₹1,000 Cr pre-IPO round and deferred its listing by 2–3 quarters](https://www.business-standard.com/markets/news/zepto-seals-pre-ipo-fundraise-defers-listing-to-focus-on-execution-126080101115_1.html))*.
 
 ---
 
-*RK World Infocom | Confidential — internal use only | News items cover stories published August 05–07, 2026 only*
+*RK World Infocom | Confidential — internal use only | News items cover stories published August 08–10, 2026 only*
