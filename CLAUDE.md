@@ -44,6 +44,8 @@ Every brand/platform row is numbered and uses exactly one of three patterns:
 
 - Do **not** use a fixed brand list per category. For each issue, research the whole category (any brand that sells or plausibly sells on Amazon India) and fill the top 5 rows with brands that **have news inside the window**, ranked by story weight.
 - Only if fewer than 5 brands have in-window news, fill the remaining slots with the category's widest-catalogue brands as "No major news today (last major news: …)" rows.
+- **Story types that count as news** (must still be published inside the window by an editorial outlet): funding, M&A, results/filings, regulatory/legal, leadership changes — and, when hard news is scarce, editorially covered product launches, ad campaigns, brand ambassadors, retail expansion and appointments (trade press like afaqs, exchange4media, ET BrandEquity, IndiaRetailing counts). Flag the softer items' source tier inline.
+- Research broadly on quiet days (weekends especially): sweep D2C results trackers (Entrackr fintrackr, Inc42), trade/campaign press, exchange-filing coverage and wires before concluding a category is quiet. A "No major news today" row is a last resort, not a default.
 - This keeps the issue carrying real data every day instead of a page of "No major news today".
 
 ## Style
