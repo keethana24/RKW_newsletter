@@ -48,6 +48,7 @@ Rank rows: in-window stories first (by weight), then recent stories by freshness
 - This keeps the issue carrying real data every day instead of a page of "No major news today".
 
 ## Style
+- **Keep it scannable** — the reader should get through the page in about a minute: exec summary is 3 one-line bullets (channels · results · watch list), each brand row is ONE short sentence (headline + key number), gap boxes are a single line of brand names.
 - Sources the issues treat as trusted: Business Standard, Economic Times, Mint, Inc42, Entrackr, afaqs, ThePrint. Flag weaker ones inline (company blogs "treat as marketing", portals with commercial ties, franchise brokerages).
 - Currency in ₹ Cr; growth as % YoY; keep the em-dash prose style of existing issues.
 - HTML styling lives inline in `<style>` in each issue file (blue #1a56db accents, `.quiet` grey italics for no-news rows, `.gap` green callouts). Reuse it as-is from `newsletter_template.html`.
